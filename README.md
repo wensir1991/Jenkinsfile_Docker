@@ -16,5 +16,5 @@ Sample Step选择:withCredentials:Bind credentials to variables,然后点击add,
 接着讲相应的语法复制到Jenkinsfile文件中，并将里面的值改成变量值
 4.开始构建项目
 将生成的代码复制到Jenkinsfile文件中，然后将Jenkins文件所有的内容复制到pipeline项目里的pipeline下的Script里，保存
-5.接着开始构建项目，并查看控制台输出信息
+5.接着开始构建项目，并查看控制台输出信息,可以看到构建是否报错
 路径:新建的pipeline项目下，Build with Parameters
