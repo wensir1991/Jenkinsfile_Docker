@@ -1,4 +1,4 @@
-# Jenkinsfile构建java_tomcat项目
+# Jenkinsfile构建java_tomcat项目(基于Docker)
 1.安装部署Jenkins
 Jenkins依赖java环境
 1.1.配置JDK和Maven环境变量
